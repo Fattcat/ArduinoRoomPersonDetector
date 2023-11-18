@@ -1,2 +1,3 @@
 # ArduinoRoomPersonDetector
-ArduinoRoomPersonDetector - Arduino code with 2 ESP8266 and Web Server.
+ArduinoRoomPersonDetector - Arduino code with 2 ESP8266 and Web Server for chec IF is someone in room.
+
